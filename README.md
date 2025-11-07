@@ -1,4 +1,13 @@
-# Gradient AI Scrape
+## Changelog & Releases
+
+### Recent Changes
+- **v1.0.0 (2025-11-07)**: Tambah dukungan streaming dan riwayat pesan; refactor API ke object export (`ask` & `ev`); default model ke "GPT OSS 120B". Lihat [full changelog](CHANGELOG.md#100---2025-11-07) untuk detail, termasuk breaking changes dan migrasi.
+
+Untuk riwayat lengkap perubahan, lihat [CHANGELOG.md](CHANGELOG.md).
+
+### Releases
+- [Latest Release (v1.0.0)](https://github.com/dhulfahmiismail123/gradientAI-scrape/releases/latest): Download source code, view notes, dan migrasi guide.
+- Semua releases: [GitHub Releases Page](https://github.com/dhulfahmiismail123/gradientAI-scrape/releases).
 
 ## Deskripsi
 
