@@ -1,3 +1,7 @@
+# Gradient AI Scrape
+
+[![npm version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/dhulfahmiismail123/gradientAI-scrape/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Node.js >=18](https://img.shields.io/badge/Node.js-%3E=18-blue.svg)](https://nodejs.org/)
+
 ## Changelog & Releases
 
 ### Recent Changes
